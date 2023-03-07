@@ -1,11 +1,9 @@
 # windows主题切换快捷
 
-Created: March 7, 2023 3:11 PM
-Tags: 技术记录
 
 ## 创建一个shell文件
 
-方法1：直接sublimtetx创建 alternative.ps1
+方法1：直接sublimtetx之类的创建 alternative.ps1
 
 方法2： 记事本txt。但是改文件名它还是txt。这时候终端里
 
